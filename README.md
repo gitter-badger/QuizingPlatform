@@ -1,4 +1,6 @@
 # QuizingPlatform
+
+[![Join the chat at https://gitter.im/NUHope/QuizingPlatform](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/NUHope/QuizingPlatform?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 the smart quizing platform with childrens touch
 
 <br>
